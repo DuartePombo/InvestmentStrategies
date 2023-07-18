@@ -1,6 +1,6 @@
 # InvestmentStrategies
 
-Just some random investment strategies algorithms.
+Just some random investment strategy algorithms.
 
 For now this only has the Minimum variance portfolio, and the Equally weighted portfolio.
 
