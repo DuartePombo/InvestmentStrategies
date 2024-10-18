@@ -1,8 +1,8 @@
 # InvestmentStrategies
 
-These are just some very simplistic approaches to some investment strategy algorithms that I created a few years ago and I'm placing them here in case this can be of any help for you to perform some backtesting reasearch of some sort or anything you need for (do not recommend investing on this, even if strategies outperform, they are not adjusted to account for transaction costs).
+These are just some very simplistic approaches to some investment strategy algorithms that I created a few years ago.
 
-For now this only has the Markoviwch Mean Variance Optimization Strategy (Sharpe Ratio maximization), the Minimum variance portfolio, and the Equally weighted portfolio (1/N) with different rebalancing periods.
+This contains the Markoviwch Mean Variance Optimization Strategy (Sharpe Ratio maximization), the Minimum variance portfolio, and the Equally weighted portfolio (1/N) with different rebalancing periods.
 
 You give as input the matrix of prices in time-series, and the functions return the matrix of weights of the strategy also in time-series.
 
